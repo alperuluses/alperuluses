@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">A passionate frontend developer and little bit php developer from Turkey</h3>
 
-- 🔭 I’m currently working on NTT Data [Koctas E-commerce](https://www.koctas.com.tr/)
+- 🔭 I’m currently working on NTT Data [Gratis E-commerce](https://www.gratis.com/)
 
 - 📫 How to reach me **alperuluses35@gmail.com**
 
